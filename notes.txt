@@ -1,0 +1,2 @@
+Ideas:
+- Scheduler from bootcamp
